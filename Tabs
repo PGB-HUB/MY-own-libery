@@ -1,0 +1,6 @@
+-- Create Tabs
+local homeTab = createTab("Home")
+local scriptsTab = createTab("Scripts")
+local exploitsTab = createTab("Exploits")
+local visualsTab = createTab("Visuals")
+local settingsTab = createTab("Settings")
